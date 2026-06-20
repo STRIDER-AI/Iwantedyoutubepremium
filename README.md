@@ -1,5 +1,5 @@
 # Iwantedyoutubepremium Malware (Really.)
-# Sorry I SKIDED
+# Sorry I SKIDED in the GDI and MBR. 
 
 
 ⚠️ **DISCLAIMER: This project is created for educational and security research purposes only. The author is not responsible for any misuse or damage caused by this software.**
