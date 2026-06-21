@@ -1,4 +1,4 @@
-# Iwantedyoutubepremium Malware (Really :D)
+# Iwantedyoutubepremium Malware (Really XD)
 # Sorry I SKIDED in the GDI and MBR. 
 
 
